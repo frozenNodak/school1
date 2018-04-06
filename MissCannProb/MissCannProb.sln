@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissCannProb", "MissCannProb\MissCannProb.csproj", "{4AC2CFEF-25DC-4BEF-9643-0242AA58DBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC2CFEF-25DC-4BEF-9643-0242AA58DBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC2CFEF-25DC-4BEF-9643-0242AA58DBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC2CFEF-25DC-4BEF-9643-0242AA58DBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC2CFEF-25DC-4BEF-9643-0242AA58DBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A6C2D9-9971-4254-841F-7B3CAA819B54}
+	EndGlobalSection
+EndGlobal
